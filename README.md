@@ -5,4 +5,4 @@ Meu nome é Wesley de Santana de São Paulo(🇧🇷). Trabalho como Desenvolved
 No meu tempo livre faço streaming na Twitch.tv :video_game:
 ____
 
-[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=wesley-santana&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/felipefialho)
+[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=wesley-santana&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/wesley-santana)
