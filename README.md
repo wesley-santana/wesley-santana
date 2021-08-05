@@ -5,4 +5,8 @@ My name is Wesley de Santana from São Paulo (🇧🇷). I've been working as a 
 In my spare time I stream on Twitch.tv :video_game:
 ____
 
-[![Felipe's github stats](https://github-readme-stats.vercel.app/api?username=wesley-santana&theme=dark&show_icons=true&count_private=true&role=OWNER,COLLABORATOR)](https://github.com/wesley-santana)
+<div>
+  <a href="https://github.com/wesley-santana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesley-santana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-santana&layout=compact&langs_count=7&theme=dark"/>
+</div>
