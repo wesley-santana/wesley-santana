@@ -1,4 +1,3 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello!
 
 My name is Wesley de Santana de São Paulo (🇺🇸). I've been working as a Developer since 2015 and I'm passionate about technology
 
